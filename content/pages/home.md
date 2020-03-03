@@ -100,10 +100,4 @@ Als Tierheilpraktiker wirst du in der Regel freiberuflich arbeiten. Nach und nac
 
 
 
-
-
-
-
-
-
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
